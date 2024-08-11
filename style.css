@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    color:blueviolet;
+}
+.freezer, .pantry{
+    display: inline-block;
+   
+}
+
+.freezer-items, .pantry-items {
+    width: 484px;
+    background-color: antiquewhite;
+    border: 1px solid black;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+
+}
+
+
+.canned, .dry, .veggies, .snacks {
+    background-color: #D9D9D9;
+    width: 220px;
+    height: 200px;
+    border-color: #D9D9D9;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+   
+
+   
+}
+.images >img {
+    width: 220px;
+    height: 210px;
+    margin-bottom: -73px;
+    margin-left: 10px;
+    border: 1px solid black
+}
+
+
+
+
+
